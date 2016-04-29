@@ -17,5 +17,8 @@
         android:text="@string/title_name"
         android:id="@+id/textView"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/abc_text_size_display_2_material"
+        android:textColor="@color/background_floating_material_light"
+        android:textStyle="bold" />
 </RelativeLayout>
